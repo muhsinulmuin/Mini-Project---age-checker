@@ -1,1 +1,1 @@
-# Mini-Project---age-checker
+# Mini Project – Grade evaluator or age checker
